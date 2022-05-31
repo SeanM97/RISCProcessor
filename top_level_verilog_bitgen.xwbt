@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Sean Jr\Desktop\CECS 301\RISCProcessor a\top_level_verilog.ncd
+OUTFILE=C:\Users\Sean Jr\Desktop\CECS 301\RISCProcessor a\top_level_verilog.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\Sean Jr\Desktop\CECS 301\RISCProcessor a
+LICENSE=WebPack
+USER_INFO=211592467_0_0_771
